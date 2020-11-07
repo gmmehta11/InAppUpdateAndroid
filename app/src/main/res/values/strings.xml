@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">InAppUpdateDemo</string>
+    <string name="info_processing">Status</string>
+    <string name="action_update">Update</string>
+    <string name="info_failed">Installation Failed</string>
+    <string name="info_pending">Update Pending</string>
+    <string name="info_canceled">Update canceled</string>
+    <string name="info_downloading">Downloading update</string>
+    <string name="info_installing">Installing Updates</string>
+    <string name="info_installed">Update Installed</string>
+    <string name="info_restart">App Restarting</string>
+    <string name="update_title">New Update</string>
+    <string name="update_message">Update available, Please download it.</string>
+    <string name="action_restart">Restarting application</string>
+    <string name="toast_updated">Immediate Update supported</string>
+    <string name="toast_started">App Started</string>
+    <string name="toast_cancelled">Update Cancelled</string>
+    <string name="toast_failed">Update Failed</string>
+</resources>
